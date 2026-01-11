@@ -1,4 +1,4 @@
-package StringProgram;
+package stringProgram;
 
 public class BufferBuilder {
 
